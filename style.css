@@ -1,0 +1,157 @@
+ul{
+    list-style: none;
+    display: flex;
+    gap: 40px;
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.andar{
+    width: 100%;
+    height: 30px;
+    border-radius: 20px;
+    padding-right: 3%;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Search_Icon.svg/1024px-Search_Icon.svg.png);
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: center right;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 1px;
+    font-size: 18px;
+    padding-left: 8%;
+    float: left;
+    
+}
+.logo{
+    padding-bottom: 5%;
+    float: left;
+}
+.img4{
+      padding-left: 24%;
+}
+h2{
+    font-size: 15px;
+    color: rgb(33, 33, 61);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button{
+    width: 100px;
+    height: 43px;
+    border-radius: 20px;
+    background-color: green;
+    outline: none;
+}
+.container1{
+    height: 40px;
+           background-color: rgb(29, 29, 40);
+           color: white;
+}
+.ul1{
+    padding-top: 0.6%;
+}
+.ul1:hover{
+    cursor: pointer;
+}
+.li1:hover{
+    background-color:  rgb(59, 58, 69);
+}
+.li2:hover{
+    background-color: rgb(59, 58, 69);
+}
+.li3:hover{
+    background-color: rgb(59, 58, 69);
+}
+.li4:hover{
+    background-color:  rgb(59, 58, 69);
+}
+.li5:hover{
+    background-color:  rgb(59, 58, 69);
+}
+.li6:hover{
+    background-color:  rgb(59, 58, 69);
+}
+.li:hover{
+    background-color:  rgb(59, 58, 69);;
+}
+.li7:hover{
+    background-color:  rgb(59, 58, 69);;
+}
+.li8:hover{
+    background-color:  rgb(59, 58, 69);;
+}
+.li9:hover{
+    background-color:  rgb(59, 58, 69);;
+}
+.li10:hover{
+    background-color:  rgb(59, 58, 69);;
+}
+.li11:hover{
+    background-color:  rgb(59, 58, 69);;
+}
+.li12:hover{
+    background-color:  rgb(59, 58, 69);;
+}
+.li13:hover{
+    background-color:  rgb(59, 58, 69);;
+}
+.li14:hover{
+    background-color:  rgb(59, 58, 69);;
+}
+.li15:hover{
+    background-color:  rgb(59, 58, 69);
+}
+.li16:hover{
+         background-color:  rgb(59, 58, 69);;
+}
+aside{
+    width: 18%;
+    background-color: rgba(231, 225, 225, 0.815);
+    height: 90vh;
+    overflow-y: scroll;
+    font-size: 34px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: start;
+    padding-left: 2%;
+    float: left;
+}
+h4{
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    color: rgb(43, 41, 41);
+}
+section{
+    float: right;
+    margin-right: 67%;
+    font-size: 37px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-right:59% ;
+    margin-top: 2%;
+
+}
+.b3{
+    color: white;
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: solid 2px green;
+
+    width: 70%;
+    
+}
+.b3:hover{
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
